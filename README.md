@@ -1,4 +1,4 @@
 # IDA2023
-## My first repository
+## My first Github repository
 
 Example repository on how to use git and jupyter notebooks
